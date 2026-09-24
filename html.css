@@ -1,0 +1,26 @@
+.image-border{
+    width: 350px;
+    border-radius: 20px 0 20px 0;
+    background-color:whitesmoke
+opacity: 1;
+    box-shadow: 10px 20px 10px black;
+}
+.image-set{
+    width: 350px;
+    height: 150px;
+border-radius: 20px 0 20px o;
+
+}
+.image-border img{
+    width: 100%;
+    height: 100%;
+
+}
+.buy{
+ background-color: rgb(9, 121, 121);
+ color: white;
+ width: 50px;
+ cursor: pointer;
+ border-radius: 3px 3px 3px 3px;
+ opacity: 0.5;
+}

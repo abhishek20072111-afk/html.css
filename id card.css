@@ -1,0 +1,28 @@
+
+.profile-card{
+    width: 275px;
+    background-color: rgb(185, 147, 90);
+    opacity: 1;
+    box-shadow: 10px 10px 10px rgb(53, 27, 27);
+    border-radius: 10px 10px 10px 10px;
+   
+}
+.profile-pic{
+    width: 100%;
+    height: 230px;
+   background-color: blanchedalmond;
+   
+}
+.profile-pic img{
+    width: 200px;
+    height: 200px;
+        border-radius: 10px 10px 10px 10px;
+   
+}
+.hg{
+    background-color: rgb(236, 214, 192);
+    height: 50px;
+    width: 275px;
+    border-radius: 10px 10px 0px 0px;
+    box-shadow: 10px 10px 10px rgb(24, 17, 17);
+}

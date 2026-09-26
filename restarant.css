@@ -1,0 +1,19 @@
+.ts{
+    width: 400px;
+
+    text-align: center;
+    text-shadow: 5px 5px 5px grey;
+    text-decoration: underline;
+}
+.food{
+    width: 100%;
+   
+
+}
+.sg{
+    background-color: bisque;
+    width: 400px;
+text-align: center;
+margin: auto;
+padding: 10px;
+}

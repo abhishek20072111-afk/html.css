@@ -1,0 +1,25 @@
+.card{
+    width: 300px;
+    background-color: rgb(219, 184, 184);
+    padding: 10px;
+    border: 2px solid black;
+    position: relative;
+}
+.h{
+    text-align: center;
+}
+.sb{
+    position: absolute;
+top: 5px;
+left:10px ;
+}
+.g{
+    position: absolute;
+    top: 5px;
+    right: 10px;
+    background-color: rgb(210, 244, 244);
+    width: 40px;
+    border: 1px solid black;
+    cursor: pointer;
+    padding: 2px;
+}

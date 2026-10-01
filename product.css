@@ -1,0 +1,29 @@
+:root{
+    --primary-color: black;
+}
+.complete-box .u:nth-child(even){
+    background-color: gray;
+}
+
+
+.u{
+    border: 2px solid black;
+    padding: 20px;
+    margin-bottom: 10px;
+    border-radius: 8px;
+}
+
+.u h2::after{
+    content: "";
+    display: block;
+    width: 100px;
+    height: 3px;
+    background-color: blue;
+    margin-top: 3px;
+
+}
+.u button:hover{
+    background-color: black;
+    color: rgb(30, 213, 213);
+    cursor: pointer;
+}

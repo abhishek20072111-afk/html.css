@@ -1,0 +1,17 @@
+.box{
+    display: flex;
+    flex-direction: row;
+    gap: 20px;
+    align-items: center;
+   justify-content: space-between;
+   padding: 10px;
+   border-bottom: 1px solid black;
+}
+.c{
+    display: flex;
+    gap: 20px;
+}
+.button{
+    padding: 5px 20px;
+    border-radius: 4px;
+}

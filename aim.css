@@ -1,0 +1,16 @@
+.h{
+    width: 100px;
+    height: 100px;
+    border-radius: 100px;
+    background: red;
+    border: 2px solid black;
+    animation: moving-ball 2s infinite alternate;
+}
+@keyframes moving-ball{
+    from{
+        transform: translateY(300px);
+    }
+    to{
+        transform: translateY(0);
+    }
+}

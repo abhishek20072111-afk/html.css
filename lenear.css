@@ -1,0 +1,9 @@
+.l{
+    height: 400px;
+    color: rgb(164, 202, 234);
+    background: linear-gradient(to right, blue,rgb(0, 255, 55));
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+}
